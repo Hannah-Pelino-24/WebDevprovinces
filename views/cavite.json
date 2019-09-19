@@ -1,9 +1,12 @@
 {
-    "name":"Cavite",
-    "image_1":"http://lh5.ggpht.com/_swDNJlku5mI/TLMWlw0OfNI/AAAAAAAAA_I/IlKIgt2A6Z8/20100906CORREGIDORD8000834.jpg?imgmax=800",
-    "image_2":"https://assets.explora.ph/images/entry-attraction-carousel/1479341175_cavite-corregidor-pacific-war-memorial-12.jpg",
-    "image_3":"https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_768/https://www.deztreks.com/wp-content/uploads/2018/11/Pantihan-Balayungan-Falls-768x512.jpg",
+    "shortName":"Cavite",
+    "name":"Province of Cavite",
+    "image_1":"/assets/image/cavite_1.jpg",
+    "image_2":"/assets/image/cavite_2.jpg",
+    "image_3":"/assets/image/cavite_3.jpg",
     "group": "Mindanao",
     "population": "3,678,301",
-    "delicacies":["Timale","Sticky Rice Cake","Pastel"]
+    "delicacies":["Timale","Sticky Rice Cake","Pastel"],
+    "history": "Its early settlers, who were Tagalogs, called it Tangway,meaning peninsula. The name Cavite evolved from the word Kawit or Cauit meaning hook as people from other places refer to it, referring to the hook-shaped land along the coast of Bacoor Bay.",
+    "averageRate": 0
 }

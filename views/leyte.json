@@ -1,9 +1,12 @@
 {
-    "name":"Leyte",
-    "image_1":"https://sgp1.digitaloceanspaces.com/tz-mag-ph/wp-content/uploads/2016/09/20232316/san-juanico-bridge-770x403.jpg",
-    "image_2":"https://i.pinimg.com/originals/cf/d7/cf/cfd7cf0ba0f59c3e32d705dce4108352.jpg",
-    "image_3":"http://files.pna.gov.ph/category-list/2018/09/17/lake-danao.jpg",
+    "shortName":"Leyte",
+    "name":"Province of Leyte",
+    "image_1":"/assets/image/leyte_1.jpg",
+    "image_2":"/assets/image/leyte_2.jpg",
+    "image_3":"/assets/image/leyte_3.jpg",
     "group": "Visayas",
     "population": "1,966,768",
-    "delicacies":["Chocolate Moron","Suman-Latik","Binagol"]
+    "delicacies":["Chocolate Moron","Suman-Latik","Binagol"],
+    "history": "Leyte is one of the Philippines' most historic provinces as it has witnessed many significant events that formed the history of the country. Being the site not only of a major rebellion against the Spaniards, Leyte is also the famous landing site of the US forces during World War II led by General Douglas MacArthur.",
+    "averageRate": 0
 }

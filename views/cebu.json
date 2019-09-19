@@ -1,9 +1,12 @@
 {
-    "name":"Cebu",
-    "image_1": "http://www.peanutbrowas.com/uploads/5/5/8/7/5587499/459496_orig.jpg",
-    "image_2":"https://asset.choosephilippines.com/chooseweb/raw/5414412577_a08690a1ef_z.jpg",
-    "image_3":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Cebu_magellans_cross_exterior.jpg/220px-Cebu_magellans_cross_exterior.jpg",
+    "shortName":"Cebu",
+    "name":"Province of Cebu",
+    "image_1": "/assets/image/cebu_1.jpg",
+    "image_2":"/assets/image/cebu_2.jpg",
+    "image_3":"/assets/image/cebu_3.jpg",
     "group": "Visayas",
     "population": "2,476,708",
-    "delicacies":["Ampaw","Letchon","Hopia"]
+    "delicacies":["Ampaw","Letchon","Hopia"],
+    "history":"Etymology. The name Cebu came from the old Cebuano word sibu or sibo (trade), a shortened form of sinibuayng hingpit (the place for trading). It was originally applied to the harbors of the town of Sugbu, the ancient name for Cebu City.",
+    "averageRate": 0
 }
