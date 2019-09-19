@@ -1,10 +1,20 @@
 doctype html
 html
+  head
+      script(src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js")
+      script(src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.13/semantic.min.js")
+      link(href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.13/semantic.min.css")
+      style(href="style.css")
   body
-    h1 My Site
-    p Welcome to my super lame site.
-    h2 Delicacies in Cebu
-    ul 
-        li#del_1  
-        li
-        li
+    div.ui.inverted.segment.appTitle
+      div.ui.fluid.raised.tabular
+        center
+           h1#title=name
+img.img(src=image_1)
+p='Major Island Group:' + group
+p='Population: ' + population
+p Delicacies: 
+  ul
+    li=delicacies[0]
+    li=delicacies[1]
+    li=delicacies[2]
