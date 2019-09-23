@@ -22,15 +22,13 @@ app.get('/provinces/:provinceName', (req, res) => {
         fs.writeFile('number_Of_Requests.txt', pingCount++, 'utf8', (e) =>{
             console.log('Counted..')
         });
-
     })
 })
+
 app.get('*',(req,res)=>{
-    req.on('data',(data)=>{
-        console.log(data)
-
-    })
+    res.render('404')
 })
-app.listen(8080, function () {
-    console.log('Server running...')
+
+app.listen(5555, function () {
+    console.log('Server running at *' + 5555)
 })

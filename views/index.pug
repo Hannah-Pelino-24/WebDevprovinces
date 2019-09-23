@@ -14,25 +14,25 @@ html
 center
 .row
   .column
-    img(src=image_1)
+    img(src=image_1).img
   .column
-    img(src=image_2)
+    img(src=image_2).img
   .column
-    img(src=image_3)
-
-p='Major Island Group: ' + group
-p='Population: ' + population
-p Delicacies: 
-  ul
-    li=delicacies[0]
-    li=delicacies[1]
-    li=delicacies[2]
-p='History: ' + history
-p Average Rating: 
-  span#rate 0
-p Rate Province: 
-  button#1 1
-  button#2 2
-  button#3 3
-  button#4 4
-  button#5 5
+    img(src=image_3).img
+div#div
+  p='Major Island Group: ' + group
+  p='Population: ' + population
+  p Delicacies: 
+    ul
+      li=delicacies[0]
+      li=delicacies[1]
+      li=delicacies[2]
+  p='History: ' + history
+  p Average Rating: 
+    span#rate 0
+  p Rate Province: 
+    button#1 1
+    button#2 2
+    button#3 3
+    button#4 4
+    button#5 5
